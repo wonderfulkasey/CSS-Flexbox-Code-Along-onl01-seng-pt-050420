@@ -6,6 +6,13 @@ but if you open the page up on a small laptop, suddenly the page content is
 squeezed, spilling over, or pushed out of place. If you open that same page
 on a larger monitor, you might see excess empty space.
 
+
+
+
+
+
+
+
 However, CSS has some powerful solutions for this. In this lesson we will
 be discussing one of them: flexbox.
 
